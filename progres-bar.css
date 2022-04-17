@@ -57,3 +57,33 @@
     stroke-dasharray  : 298.1371428256714;
     stroke-dashoffset : 298.1371428256714;
 }
+
+.listen {
+grid-area: listen;
+width: 50px;
+}
+.title {
+grid-area: title;
+}
+.download {
+grid-area: download;
+}
+
+.mediPlayer {
+display: grid;
+grid-template-columns: 60px auto;
+grid-template-areas:
+'listen title'
+'listen download';
+background-color: #2196F3;
+}
+.playlist {
+display: grid;
+}
+@media (min-width: 600px) {
+  .playlist { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 900px) {
+  .playlist { grid-template-columns: repeat(3, 1fr); }
+}
