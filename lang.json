@@ -1,0 +1,22 @@
+{
+  "pleaseSubscribe": {
+    "element": "pleaseSubscribe",
+    "id": "Silakan subscribe terlebih dahulu untuk akses link download",
+    "en": "Please subscribe to our YouTube channel to access the download"
+  },
+  "afterVerif": {
+    "element": "afterVerif",
+    "id": "Link download akan muncul setelah verifikasi.",
+    "en": "Your download will start after verification."
+  },
+  "bySubscribe": {
+    "element": "bySubscribe",
+    "id": "Dengan meng-subscribe, kamu membantu channel Youtube saya untuk terus berkembang. Terimakasih!",
+    "en": "By subscribing, you help support our work and get notified about new content. We promise not to spam you."
+  },
+  "whySubscribe": {
+    "element": "whySubscribe",
+    "id": "Kenapa harus subscribe?",
+    "en": "Why subscribe?"
+  }
+}
