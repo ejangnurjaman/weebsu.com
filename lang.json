@@ -18,5 +18,20 @@
     "element": "whySubscribe",
     "id": "Kenapa harus subscribe?",
     "en": "Why subscribe?"
+  },
+  "noThanks": {
+    "element": "noThanks",
+    "id": "Tidak terimakasih :)",
+    "en": "No thanks :)"
+  },
+  "secureDownload": {
+    "element": "secureDownload",
+    "id": "Download Aman",
+    "en": " Secure Download"
+  },
+  "subsNow": {
+    "element": "subsNow",
+    "id": "Subscribe Sekarang",
+    "en": "Subscribe Now"
   }
 }
